@@ -1,0 +1,1 @@
+"E:\My_Revesion\D_Django\e_project\E_mailapp\django_email.txt"
